@@ -1,0 +1,5 @@
+# Requirements untuk demo CI/CD Python
+pytest
+pytest-cov==4.1.0
+flake8==6.1.0
+black==23.11.0
